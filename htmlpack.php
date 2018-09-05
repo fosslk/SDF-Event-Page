@@ -183,7 +183,7 @@
             <!-- End portfolio-area Area -->	
 
 			<!-- Start testimonial Area -->
-		    <section id="partner" class="testimonial-area section-gap">
+		    <section id="partner" class="testimonial-area section-gap" style="background-image: url(images/sour.png);background-size: cover;background-repeat: no-repeat;background-color: white;">
 		        <div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
