@@ -192,34 +192,38 @@
 		                    </div>
 		                </div>
 		            </div>
-		            <div class="row">
-		                <div class="active-testimonial">
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
-		                            </p>
-		                            <h4>Harriet Maxwell</h4>
-		                            <p>CEO at Google</p>
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user2.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
-		                            </p>
-		                            <h4>Carolyn Craig</h4>
-		                            <p>CEO at Facebook</p>
-		                        </div>
-		                    </div>
-		                </div>
-
+		            <div class="row">            		                    
+		                	<div class="col">
+		                		<div class="card">		                			
+		                			<img src="image/sour.png" height="43" width="43">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="card">		                			
+		                			<img src="image/sour.png" height="43" width="43">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="card">		                			
+		                			<img src="image/sour.png" height="43" width="43">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="card">		                			
+		                			<img src="image/sour.png" height="43" width="43">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="card">		                			
+		                			<img src="image/sour.png" height="43" width="43">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="card">		                			
+		                			<img src="image/sour.png" height="43" width="43">	                		
+		                		</div>
+		                	</div>
+  							
 		            </div>
 		        </div>
 		    </section>
