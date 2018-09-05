@@ -43,7 +43,8 @@
 			          <li><a href="index.html">Home</a></li>
 			          <li><a href="#section1">Speacker</a></li>
 			          <li><a href="#section2">Schedule</a></li>
-			          <li><a href="#location"></a></li>
+			          <li><a href="#partner">Partners</a></li>
+			          <li><a href="#location">Location</a></li>
 			          <li><a href="price.html">Contact</a></li>
 			          <li class="menu-has-children"><a href="">About</a>
 			         </ul>			          		          
@@ -182,13 +183,12 @@
             <!-- End portfolio-area Area -->	
 
 			<!-- Start testimonial Area -->
-		    <section id="location" class="testimonial-area section-gap">
+		    <section id="partner" class="testimonial-area section-gap">
 		        <div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-center">
-		                        <h1 class="mb-10">Location</h1>
-		                        <p>It is very easy to start smoking but it is an uphill task to quit it. Ask any chain smoker or even a person.</p>
+		                      <h2>Huper Margen</h2>
 		                    </div>
 		                </div>
 		            </div>
