@@ -66,7 +66,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class="lnr lnr-pie-chart"></span>
+								<img src="images\anuradha.png" height="100" width="100">
 								<a href="#"><h4>Speacker1</h4></a>
 								<p>
 									“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.”
@@ -75,7 +75,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class="lnr lnr-laptop-phone"></span>
+								<img src="images\chandana.png" height="100" width="100">
 								<a href="#"><h4>Speacker2</h4></a>
 								<p>
 									If you are an entrepreneur, you know that your success cannot depend on the opinions of others. Like the wind, opinions.
@@ -84,7 +84,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class="lnr lnr-camera"></span>
+								<img src="images\SANJEEWA.png" height="100" width="100">
 								<a href="#"><h4>Speacker3</h4></a>
 								<p>
 									Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills.
