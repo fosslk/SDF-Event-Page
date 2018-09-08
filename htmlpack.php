@@ -41,7 +41,7 @@
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
 			          <li><a href="index.html">Home</a></li>
-			          <li><a href="#section1">Speacker</a></li>
+			          <li><a href="#section1">Speakers</a></li>
 			          <li><a href="#section2">Schedule</a></li>
 			          <li><a href="#partner">Partners</a></li>
 			          <li><a href="#location">Location</a></li>
@@ -58,8 +58,8 @@
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content  col-lg-7">
 		                    <div class="title text-center">
-		                        <h1 class="mb-10">Speacker</h1>
-		                        <p>At about this time of year, some months after New Year’s resolutions have been made and kept, osr made and neglected.</p>
+		                        <h1 class="mb-10">Speakers</h1>
+		                        <p>Meet our guest speakers for Software Freedom Day - 2018</p>
 		                    </div>
 		                </div>
 		            </div>						
@@ -67,27 +67,27 @@
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
 								<img src="images\anuradha.png" height="100" width="100">
-								<a href="#"><h4>Speacker1</h4></a>
+								<a href="#"><h4>Anuradha Ratnaweera</h4></a>
 								<p>
-									“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.”
+									Former Consultant - Virtusa Cooperation
 								</p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
 								<img src="images\chandana.png" height="100" width="100">
-								<a href="#"><h4>Speacker2</h4></a>
+								<a href="#"><h4>Eng. Lt. Col. Dr. Chandana D. Gamage</h4></a>
 								<p>
-									If you are an entrepreneur, you know that your success cannot depend on the opinions of others. Like the wind, opinions.
+                                    Senior Lecturer at University of Moratuwa | Founder/ Director - Liveroom (Pvt) Ltd.
 								</p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
 								<img src="images\SANJEEWA.png" height="100" width="100">
-								<a href="#"><h4>Speacker3</h4></a>
+								<a href="#"><h4>Dr. Sanjiva Weerawarana</h4></a>
 								<p>
-									Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills.
+                                    Co-Founder - WSO2 Inc. | Founder - Lanka Software Foundation - opensource.lk
 								</p>
 							</div>	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 						</div>																			
@@ -123,7 +123,7 @@
                 <div class="menu-content pb-70">
                     <div class="title text-center"><br><br>
                         <h1 class="mb-10">Schedule</h1>
-                        <p>Who are in extremely love with eco friendly system.</p>
+                        <p>Date and Time - 22 September 2018 at 1.00 PM - 5.30 PM | Venue - SLIIT Malabe Campus, New Kandy Road, Malabe</p>
                     </div>
                 </div>
             </div>				
@@ -131,48 +131,101 @@
 			    <li>
 			      <div class="content hidden" style="opacity: 1;">
 			        <h4>
-			          <time>Masters in Graphics &amp; Fine Arts\</time>
+			          <time>Registration</time>
 			        </h4>
-			        <p><b>Time:</b> 2010-11</p>
-			        <p><b>Result:</b> 3.78 (In the Scale of 4.00)</p>
+			        <p><b>Time:</b> 1.00 PM</p>
 			      </div>
 			    </li>
 			    <li>
 			      <div class="content hidden" style="opacity: 1;">
 			      	<img class="img-fluid mx-auto d-block mb-30" src="" alt="">
 			        <h4>
-			          <time>Creative Content Developer</time>
+			          <time>Event Start and Welcome Speech</time>
 			        </h4>
-			        <p>July 2015 to Present</p>
+                      <p><b>Time:</b> 1.15 PM</p>
 			      </div>
 			    </li>
 			    <li>
 			      <div class="content hidden" style="opacity: 1;">
 			        <h4>
-			          <time>Bachelor in Graphics &amp; UI/UX</time>
+			          <time>Keynote  |  Dr Sanjiva Weerawarana</time>
 			        </h4>
-			        <p><b>Time:</b> 2006-09</p>
-			        <p><b>Result:</b> 3.40 (In the Scale of 4.00)</p>
+			        <p><b>Time:</b> 1.30 PM</p>
 			      </div>
 			    </li>
 			    <li>
 			      <div class="content hidden">
 			      	<img class="img-fluid mx-auto d-block mb-30" src="" alt="">
 			        <h4>
-			          <time>Senior UI/UX Designer</time>
+			          <time>Session 01 - FOSS.LK Relaunch  |  Tharindu Madushanka</time>
 			        </h4>
-			        <p>July 2015 to Present</p>
+			        <p><b>Time:</b> 2.00 PM</p>
 			      </div>
 			    </li>
 			    <li>
 			      <div class="content hidden">
 			        <h4>
-			          <time>Diploma in Fine Arts &amp; Printing</time>
+			          <time>Entertainment Segment</time>
 			        </h4>
-			        <p><b>Time:</b> 2003-06</p>
-			        <p><b>Result:</b> 4.94 (In the Scale of 5.00)</p>
+                    <p><b>Time:</b> 2.30 PM</p>
 			      </div>
 			    </li>
+                <li>
+                  <div class="content hidden">
+                    <h4>
+                      <time>Session 02  |  Anuradha Ratnaweera</time>
+                    </h4>
+                    <p><b>Time:</b> 2.45 PM</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="content hidden">
+                  <h4>
+                      <time>QA Session</time>
+                  </h4>
+                  <p><b>Time:</b> 3.15 PM</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="content hidden">
+                      <h4>
+                          <time>Session 03  |  Dr Chandana Gamage</time>
+                      </h4>
+                      <p><b>Time:</b> 3.30 PM</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="content hidden">
+                      <h4>
+                          <time>Entertainment Segment</time>
+                      </h4>
+                      <p><b>Time:</b> 4.00 PM</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="content hidden">
+                      <h4>
+                          <time>Panel Discussion</time>
+                      </h4>
+                      <p><b>Time:</b> 4.15 PM</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="content hidden">
+                      <h4>
+                          <time>Refreshment and Networking</time>
+                      </h4>
+                      <p><b>Time:</b> 5.00 PM</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="content hidden">
+                      <h4>
+                          <time>Event Close</time>
+                      </h4>
+                      <p><b>Time:</b> 5.30 PM</p>
+                  </div>
+                </li>
 			  </ul>
 			</section>
 		                    </div>
