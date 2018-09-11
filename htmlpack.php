@@ -247,42 +247,42 @@
 		            </div>
 		            <div class="row">            		                    
 		                	<div class="col">
-		                		<div class="card" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
 		                			<img src="images/1.jpg" height="150" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="card" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
 		                			<img src="images/2.jpg" height="150" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="card" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
 		                			<img src="images/3.jpg" height="150" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="card" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
 		                			<img src="images/4.jpg" height="150" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="card" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
 		                			<img src="images/5.jpg" height="150" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="card" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
 		                			<img src="images/6.jpg" height="150" width="150">	                		
@@ -298,7 +298,16 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-center">
-							  <h2>Location</h2><br>							 
+							  <h2>Location</h2><br>		
+							  <div class="row">
+								  <div class="col">
+									  <h4>Sri Lanka Institute of Information Technology</h4> 
+									  
+								  </div>
+								  <div class="col">
+									  <h4> New Kandy Rd, Malabe 10115</h4> 
+								  </div>
+							  </div>						  						 
 							</div>			
 		                </div>
 		            </div>
