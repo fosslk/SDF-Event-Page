@@ -298,33 +298,20 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            </div>
 		            <div class="row">            		                    
 		                	<div class="col">
-		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
--moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
-		                			<img src="images/syscolabs-co sponsor.jpg" height="150" width="150">	                		
+		                		<div class="" style="">		                			
+		                			<img src="images/apigate.png" height="400" width="270">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
--moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
-		                			<img src="images/wso2-gold.jpg" height="150" width="150">	                		
+		                		<div class="" style="">		                			
+		                			<img src="images/co-sponsor.png" height="400" width="270">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
--moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
-		                			<img src="images/apigate- platinum.jpg" height="150" width="150">	                		
+		                		<div class="" style="">		                			
+		                			<img src="images/waso2.png" height="400" width="270">	                		
 		                		</div>
-		                	</div>
-		                	<div class="col">
-		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
--moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
-		                			<img src="images/emovyz- cosponsor.jpg" height="150" width="150">	                		
-		                		</div>
-		                	</div>							
+		                	</div>		                					
 		            </div>
 		        </div>
 		    </section>
