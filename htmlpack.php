@@ -311,10 +311,10 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            </div>
 		            <div class="row">					
 		            </div>
-		        </div>
-			<div class="" style="background-image: url(images/map_api.png);background-size: cover;background-repeat: no-repeat;">
-							<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-							</div>
+				</div>
+				
+				<div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=6.914840, 79.972776&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Create Google Map</a></iframe></div><br />
+	
 		        
 		    </section>
 		    
