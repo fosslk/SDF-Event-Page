@@ -45,8 +45,6 @@
 			          <li><a href="#section2">Schedule</a></li>
 			          <li><a href="#partner">Partners</a></li>
 			          <li><a href="#location">Location</a></li>
-			          <li><a href="price.html">Contact</a></li>
-			          <li class="menu-has-children"><a href="">About</a>
 			         </ul>			          		          
 			      </nav><!-- #nav-menu-container -->		    		
 		    	</div>
