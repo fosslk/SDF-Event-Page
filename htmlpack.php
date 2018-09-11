@@ -294,18 +294,21 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		    </section>
 
 		    <section id="location" class="testimonial-area section-gap">
-		        <div class="container">
+			<div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-center">
-		                      <h2>Huper Margen</h2>
-		                    </div>
+							  <h2>Location</h2><br>							 
+							</div>			
 		                </div>
 		            </div>
-		            <div class="row">
-					<div id="map"></div>
+		            <div class="row">					
 		            </div>
 		        </div>
+			<div class="" style="background-image: url(images/map_api.png);background-size: cover;background-repeat: no-repeat;">
+							<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+							</div>
+		        
 		    </section>
 		    
 		    <!-- Start brands Area -->

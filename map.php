@@ -15,20 +15,21 @@
 
 <body>
 
-  <link href='//fonts.googleapis.com/css?family=Raleway:600,900,400|Roboto:300,700' rel='stylesheet'>
 <div id="map"></div>
-
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<div class="header">
+  <h1>Map Marker</h1>
+  <ul class="animations">
+    <li><a href="#" id="drop">Drop</a>
+    <li><a href="#" id="wobble">Wobble</a>
+    <li><a href="#" id="bounce">Bounce</a>
+  </ul>
+  <div class='list-label'>--- animations ---</div>
+  <div class='tags'>CSS | Google Maps | <a href="http://dynamicsjs.com/">dynamics.js</a></div>
+</div>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='http://maps.google.com/maps/api/js'></script>
 <script src='http://github.com/michaelvillar/dynamics.js/releases/download/0.0.8/dynamics.min.js'></script>
-
-  
-
-    <script  src="js/map_animtrap.js"></script>
-
-
-
-
+<script  src="js/map_animtrap.js"></script>
 </body>
 
 </html>
