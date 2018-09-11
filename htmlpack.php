@@ -234,7 +234,7 @@
             <!-- End portfolio-area Area -->	
 
 			<!-- Start testimonial Area -->
-		    <section id="partner" class="testimonial-area section-gap" style="background-image: url(images/sour.png);background-size: cover;background-repeat: no-repeat;background-color: white;">
+		    <section id="partner" class="testimonial-area section-gap" style="background-image:;background-size: cover;background-repeat: no-repeat;background-color: white;">
 		        <div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
@@ -284,9 +284,47 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 -moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
 box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
 		                			<img src="images/6.jpg" height="150" width="150">	                		
+								</div>								
+							</div>
+
+
+							<div class="container">
+		            <div class="row d-flex justify-content-center">
+		                <div class="menu-content pb-70 col-lg-8"><br><br><br>
+		                    <div class="title text-center">
+		                      <h2>Sponsors</h2>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="row">            		                    
+		                	<div class="col">
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
+		                			<img src="images/syscolabs-co sponsor.jpg" height="150" width="150">	                		
 		                		</div>
 		                	</div>
-  							
+		                	<div class="col">
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
+		                			<img src="images/wso2-gold.jpg" height="150" width="150">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
+		                			<img src="images/apigate- platinum.jpg" height="150" width="150">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
+		                			<img src="images/emovyz- cosponsor.jpg" height="150" width="150">	                		
+		                		</div>
+		                	</div>							
 		            </div>
 		        </div>
 		    </section>
@@ -313,8 +351,7 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            </div>
 				</div>
 				
-				<div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=6.914840, 79.972776&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Create Google Map</a></iframe></div><br />
-	
+				<div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=6.914840, 79.972776&amp;q=New%20Kandy%20Rd%2C%20Malabe%2010115+(SFD%202018)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Add map to website</a></iframe></div><br />
 		        
 		    </section>
 		    
