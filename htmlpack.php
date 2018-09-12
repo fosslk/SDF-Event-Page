@@ -299,19 +299,68 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            <div class="row">            		                    
 		                	<div class="col">
 		                		<div class="" style="">		                			
-		                			<img src="images/apigate.png" height="400" width="270">	                		
+		                			<img src="images/iap/web/apigate.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
 		                		<div class="" style="">		                			
-		                			<img src="images/co-sponsor.png" height="400" width="270">	                		
+		                			<img src="images/iap/web/ayacolsbs.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
 		                		<div class="" style="">		                			
-		                			<img src="images/waso2.png" height="400" width="270">	                		
+		                			<img src="images/iap/web/emovyz.jpg" height="250" width="150">	                		
 		                		</div>
-		                	</div>		                					
+		                	</div>		
+							<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/web/git&jet.jpg" height="250" width="150">	                		
+		                		</div>
+		                	</div>	
+							<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/web/wso2.jpg" height="250" width="150">	                		
+		                		</div>
+		                	</div>							                					
+		            </div>
+					<div class="row d-flex justify-content-center">
+		                <div class="menu-content pb-70 col-lg-8"><br><br><br>
+		                    <div class="title text-center">
+		                      <h2>Campus Communitys</h2>
+		                    </div>
+		                </div>
+		            </div>
+					<div class="row">		      		                    
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/ICBT.jpg" height="100" width="100">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/IIT.jpg" height="100" width="100">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/NSBM.jpg" height="100" width="100">	                		
+		                		</div>
+		                	</div>
+							<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/OUSL.jpg" height="100" width="100">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/RUSL.jpg" height="100" width="100">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/iap/SLIIT.jpg" height="100" width="100">	                		
+		                		</div>
+		                	</div>											                					
 		            </div>
 		        </div>
 		    </section>
