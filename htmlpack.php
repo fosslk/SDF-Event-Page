@@ -30,6 +30,8 @@
 			<link rel="stylesheet" href="css/animate.min.css">
 			<link rel="stylesheet" href="css/owl.carousel.css">				
 			<link rel="stylesheet" href="css/main.css">
+			<link rel="stylesheet" href="css/animtrap.min.css">
+
 		</head>
 		<body>	
 		  <header id="header">
@@ -298,27 +300,27 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            </div>
 		            <div class="row">            		                    
 		                	<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/web/apigate.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/web/ayacolsbs.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/web/emovyz.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>		
 							<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/web/git&jet.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>	
 							<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/web/wso2.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>							                					
@@ -332,32 +334,34 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            </div>
 					<div class="row">		      		                    
 		                	<div class="col">
-		                		<div class="" style="">		                			
+													
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/ICBT.jpg" height="100" width="100">	                		
 		                		</div>
-		                	</div>
+		                	
+							</div>
 		                	<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/IIT.jpg" height="100" width="100">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/NSBM.jpg" height="100" width="100">	                		
 		                		</div>
 		                	</div>
 							<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/OUSL.jpg" height="100" width="100">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/RUSL.jpg" height="100" width="100">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
-		                		<div class="" style="">		                			
+		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/SLIIT.jpg" height="100" width="100">	                		
 		                		</div>
 		                	</div>											                					
@@ -396,9 +400,13 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		        <div class="container">
 		            <div class="brand-wrap">
 		                <div class="row align-items-center active-brand-carusel justify-content-start no-gutters">
-		                    <div class="col single-brand">
+		                  						
+						    <div class="col single-brand">
+								<div class="anim-hover-grow">
 		                        <a href="#"><img class="mx-auto" src="img/l1.png" alt=""></a>
+								</div>
 		                    </div>
+							</duv>
 		                    <div class="col single-brand">
 		                        <a href="#"><img class="mx-auto" src="img/l2.png" alt=""></a>
 		                    </div>
