@@ -392,14 +392,34 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 							</div>			
 		                </div>
 		            </div>
-		            <div class="row">					
-		            </div>
+		           
 				</div>
 				
 				<div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=6.914840, 79.972776&amp;q=New%20Kandy%20Rd%2C%20Malabe%2010115+(SFD%202018)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Add map to website</a></iframe></div><br />
-		        
+		        		
+			<div class="row" >	
+			</div>			
+			
+		    </div>
+
+  <section id="location" class="testimonial-area section-gap">
+			<div class="container">
+		            <div class="row d-flex justify-content-center">
+		                <div class="menu-content pb-70 col-lg-8">
+		                    <div class="title text-center">
+							  <h2>Register with RSVP</h2><br>	
+							  <button type="button" class="btn btn-primary">RSVP Register</button>		
+							  <div class="row">
+														  						 
+							  </div>						  						 
+							</div>			
+		                </div>
+		            </div>
+		           
+				</div>
+
 		    </section>	    
-		 
+			
 
 			<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 			<script src='http://maps.google.com/maps/api/js'></script>
