@@ -288,6 +288,49 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		                			<img src="images/6.jpg" height="150" width="150">	                		
 								</div>								
 							</div>
+					</div>		<br>
+					<div class="row">            		                    
+		                	<div class="col">
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
+		                			<img src="images/7879.png" height="150" width="150">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
+		                			<img src="images/srmobile.png" height="150" width="150">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="-webkit-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);
+box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">		                			
+		                			<img src="images/sltech.jpg" height="150" width="150">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/brit.png" height="150" width="150">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/brit.png" height="150" width="150">	                		
+		                		</div>
+		                	</div>
+		                	<div class="col">
+		                		<div class="" style="">		                			
+		                			<img src="images/brit.png" height="150" width="150">	                		
+								</div>								
+							</div>
+					</div>					
+
+							
+							
+							
 
 
 							<div class="container">
