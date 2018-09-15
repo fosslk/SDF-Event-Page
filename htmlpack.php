@@ -451,7 +451,8 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-center">
 							  <h2>Register with RSVP</h2><br>	
-							  <button type="button" class="btn btn-primary">RSVP Register</button>		
+							  <a href="http://rsvp.lk/fosslk/software-freedom-day-18" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">RSVP.lk</a
+		
 							  <div class="row">
 														  						 
 							  </div>						  						 
