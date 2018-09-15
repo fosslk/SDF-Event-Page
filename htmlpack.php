@@ -323,7 +323,12 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/web/wso2.jpg" height="250" width="150">	                		
 		                		</div>
-		                	</div>							                					
+		                	</div>	
+							<div class="col">
+		                		<div class="anim-hover-grow" style="">		                			
+		                			<img src="images/iap/web/1457.jpg" height="250" width="150">	                		
+		                		</div>
+		                	</div>								                					
 		            </div>
 					<div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8"><br><br><br>
@@ -393,36 +398,8 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 				
 				<div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=6.914840, 79.972776&amp;q=New%20Kandy%20Rd%2C%20Malabe%2010115+(SFD%202018)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Add map to website</a></iframe></div><br />
 		        
-		    </section>
-		    
-		    <!-- Start brands Area -->
-		    <section class="brands-area">
-		        <div class="container">
-		            <div class="brand-wrap">
-		                <div class="row align-items-center active-brand-carusel justify-content-start no-gutters">
-		                  						
-						    <div class="col single-brand">
-								<div class="anim-hover-grow">
-		                        <a href="#"><img class="mx-auto" src="img/l1.png" alt=""></a>
-								</div>
-		                    </div>
-							</duv>
-		                    <div class="col single-brand">
-		                        <a href="#"><img class="mx-auto" src="img/l2.png" alt=""></a>
-		                    </div>
-		                    <div class="col single-brand">
-		                        <a href="#"><img class="mx-auto" src="img/l3.png" alt=""></a>
-		                    </div>
-		                    <div class="col single-brand">
-		                        <a href="#"><img class="mx-auto" src="img/l4.png" alt=""></a>
-		                    </div>
-		                    <div class="col single-brand">
-		                        <a href="#"><img class="mx-auto" src="img/l5.png" alt=""></a>
-		                    </div>
-		                </div>
-		            </div>
-		        </div>
-		    </section>
+		    </section>	    
+		 
 
 			<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 			<script src='http://maps.google.com/maps/api/js'></script>
