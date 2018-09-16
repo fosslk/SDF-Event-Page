@@ -42,7 +42,7 @@
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="index.html">Home</a></li>
+			          <li><a href="#">Home</a></li>
 			          <li><a href="#section1">Speakers</a></li>
 			          <li><a href="#section2">Schedule</a></li>
 			          <li><a href="#partner">Partners</a></li>
