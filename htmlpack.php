@@ -46,6 +46,8 @@
 			          <li><a href="#section1">Speakers</a></li>
 			          <li><a href="#section2">Schedule</a></li>
 			          <li><a href="#partner">Partners</a></li>
+					  <li><a href="#sop">Sponsors</a></li>
+					  <li><a href="#cam">Campus Communities</a></li>
 			          <li><a href="#location">Location</a></li>
 			         </ul>			          		          
 			      </nav><!-- #nav-menu-container -->		    		
@@ -336,7 +338,7 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 							<div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8"><br><br><br>
-		                    <div class="title text-center">
+		                    <div class="title text-center" id="sop">
 		                      <h2>Sponsors</h2>
 		                    </div>
 		                </div>
@@ -375,8 +377,8 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		            </div>
 					<div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8"><br><br><br>
-		                    <div class="title text-center">
-		                      <h2>Campus Communitys</h2>
+		                    <div class="title text-center" id="cam">
+		                      <h2>Campus Communities</h2>
 		                    </div>
 		                </div>
 		            </div>
