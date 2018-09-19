@@ -351,14 +351,19 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		                	</div>
 		                	<div class="col">
 		                		<div class="anim-hover-grow" style="">		                			
-		                			<img src="images/iap/web/ayacolsbs.jpg" height="250" width="150">	                		
+		                			<img src="images/iap/web/wso2.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>
 		                	<div class="col">
 		                		<div class="anim-hover-grow" style="">		                			
-		                			<img src="images/iap/web/emovyz.jpg" height="250" width="150">	                		
+		                			<img src="images/iap/web/1457.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>		
+							<div class="col">
+		                		<div class="anim-hover-grow" style="">		                			
+		                			<img src="images/iap/web/ayacolsbs.jpg" height="250" width="150">	                		
+		                		</div>
+		                	</div>	
 							<div class="col">
 		                		<div class="anim-hover-grow" style="">		                			
 		                			<img src="images/iap/web/git&jet.jpg" height="250" width="150">	                		
@@ -366,12 +371,7 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		                	</div>	
 							<div class="col">
 		                		<div class="anim-hover-grow" style="">		                			
-		                			<img src="images/iap/web/wso2.jpg" height="250" width="150">	                		
-		                		</div>
-		                	</div>	
-							<div class="col">
-		                		<div class="anim-hover-grow" style="">		                			
-		                			<img src="images/iap/web/1457.jpg" height="250" width="150">	                		
+		                			<img src="images/iap/web/emovyz.jpg" height="250" width="150">	                		
 		                		</div>
 		                	</div>								                					
 		            </div>
