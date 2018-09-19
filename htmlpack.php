@@ -467,9 +467,9 @@ box-shadow: 4px 3px 36px -10px rgba(0,0,0,0.75);">
 		    </section>	    
 			
 
-			<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-			<script src='http://maps.google.com/maps/api/js'></script>
-			<script src='http://github.com/michaelvillar/dynamics.js/releases/download/0.0.8/dynamics.min.js'></script>
+			<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+			<script src='https://maps.google.com/maps/api/js'></script>
+			<script src='https://github.com/michaelvillar/dynamics.js/releases/download/0.0.8/dynamics.min.js'></script>
 			<script  src="js/map_animtrap.js"></script>
             <script  src="js/index.js"></script>
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
